@@ -8,3 +8,13 @@ I was born in New Zealand in 2005, but have experienced the benefits of an inter
 - 2016 - 2018: developed a **website** for a school department
 - 2016 - 2020: active and leading member of the ISD **Sound and Lights** team
 - 2018 - present: **sound and lighting** for the Blue Goat Theatre company
+
+## get in touch
+Want to know more about what I do and believe in? Want to ask a question? Want to see more of my work? You can see my:
+- Instagram
+- GitHub
+
+Alternatively, you can email me at:
+theo@ttccourt.com
+
+###### made with <3
