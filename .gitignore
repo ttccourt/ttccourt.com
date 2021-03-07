@@ -1,0 +1,15 @@
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll,sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,sass
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### Sass ###
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.toptal.com/developers/gitignore/api/jekyll,sass
