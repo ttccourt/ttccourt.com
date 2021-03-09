@@ -1,6 +1,7 @@
 ---
 title: projects
 layout: default
+show_title: true
 ---
 
 -   [Pronounimizer](https://pronouns.ttccourt.com). Try out pronouns that work for you.

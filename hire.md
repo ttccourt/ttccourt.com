@@ -1,6 +1,7 @@
 ---
 title: hire me!
 layout: default
+show_title: true
 ---
 
 I have experience in photography, information technology and as an event/theatre technician.

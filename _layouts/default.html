@@ -1,32 +1,37 @@
 <!DOCTYPE html>
+<html lang="en">
+	<head>
 
-<head>
+		<title>theo court | {{ page.title }}</title>
+		<meta name="description" content="Programmer, photographer and event technician currently based in NRW." />
+		
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>theo court | {{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="/assets/default.css">
+		
 
-	<meta name="description" content="Programmer, photographer and event technician currently based in NRW." />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-    <link rel="stylesheet" type="text/css" href="/neat.css">
-    <link rel="stylesheet" type="text/css" href="/custom.css">
+	</head>
+	<body>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<div id="header">
+			<h1 style="display: inline-block"><a href="/">theo court</a></h1>
+			<h3 style="display: inline; margin-left: 2%;"><a href="/posts">blog</a> | <a href="/projects">projects</a> | <a href="/hire">hire me!</a></h3>
+		</div>
 
-</head>
 
-<body>
+		{% if page.show_title %}
+		    <h2>{{ page.title }}</h2>
+		{% endif %}
 
-	<h1 style="display: inline-block"><a href="/">theo court</a></h1>
-    <h3 style="display: inline; margin-left: 2%;"><a href="/posts">blog</a> | <a href="/projects">projects</a> | <a href="/hire">hire me!</a></h3>
+		{{ content }}
 
-    <h2>{{ page.title }}</h2>
 
-    {{ content }}
+		<div id="footer">
+			<hr>
+			<h5><a href="https://instagram.com/ttccourt">instagram</a> | <a href="https://github.com/ttccourt">github</a></h5>
+			<h6><a href="/copyright">copyright</a> - made with &lt;3</h6>
+		</div>
 
-	<br>
-    <hr>
-    <h5><a href="#">instagram</a> | <a href="#">github</a> | made with &lt;3</h5>
-	
-</body>
+	</body>
 </html>
