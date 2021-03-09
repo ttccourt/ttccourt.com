@@ -65,9 +65,6 @@ pre {
 
 /* Desktop sizes */
 @media only screen and (min-width: 600px) {
-    ol {
-        column-count: 2;
-    }
     body {
         margin-left: 60px;
         margin-right: 60px;
