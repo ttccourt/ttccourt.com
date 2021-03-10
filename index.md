@@ -4,6 +4,13 @@ layout: default
 show_title: false
 ---
 
-I’m a tenth-grade International Baccalaureate student living in the state of NRW in Germany. I’m interested in pursuing a degree in Computer Science and a career in IT. I also take photos, play video games, build PCs and do programming. I speak English natively and I have intermediate-level German. I was born in New Zealand in 2005, but have experienced the benefits of an international upbringing, having since lived in the Netherlands, Australia, and now Germany for the past six years. I have experience in photography, information technology and as an event/theatre technician.
+Hi! I'm a tenth-grade IB student and leftist currently based in Düsseldorf. I do things with computers and cameras. Here are some things I've done:
 
-Want to know more about what I do and believe in? Want to ask a question? Want to see more of my work? Email me at `theo@ttccourt.com`, or tweet to [`@ttccourt`](https://twitter.com/ttccourt).
+-   [Pronounimizer](https://pronouns.ttccourt.com). Try out pronouns that work for you.
+-   [Cyte](https://cyte.ttccourt.com). Simple, no-BS source citing in MLA.
+-   [Geoshock](https://geoshock.ttccourt.com). A text-based fantasy RPG. Save the world, get the girl, eat the garlic bread.
+-   [Notemarklet](/notemarklet). A free, simple, offline-capable bookmarklet for taking notes in your web browser.
+
+My photography can be found on my [Instagram](https://instagram.com/ttccourt). For more projects, including my older stuff, check out my [GitHub](https://github.com/ttccourt). 
+
+If you want to get in touch, email `theo@ttccourt.com`, or tweet to [`@ttccourt`](https://twitter.com/ttccourt).
