@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  color: #404040; }
+
+body {
+  font-family: sans-serif;
+  max-width: 800px; }
+
+#header {
+  margin: 1.5em 0; }
+  #header * {
+    margin: 0; }
+
+#footer {
+  margin: 10% 0;
+  font-size: small; }
+  #footer #socials {
+    padding: 0;
+    display: inline; }
+    #footer #socials li {
+      display: inline; }
+  #footer #copyright {
+    display: inline;
+    float: right; }
+
+img {
+  width: 100%; }
+
+pre {
+  overflow: auto; }
+
+p {
+  line-height: 1.5em; }
+
+/* Desktop sizes */
+@media only screen and (min-width: 600px) {
+  body {
+    margin-left: 60px;
+    margin-right: 60px; } }
+
+/*# sourceMappingURL=default.css.map */
