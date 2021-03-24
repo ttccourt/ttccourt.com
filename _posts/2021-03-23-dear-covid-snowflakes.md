@@ -1,6 +1,7 @@
 ---
 title: Dear COVID snowflakes
 layout: default
+show_title: true
 ---
 
 This is a message to those who still don't wear masks.

@@ -1,6 +1,7 @@
 ---
 title:  "In defence of plaintext"
 layout: default
+show_title: true
 ---
 
 **The web is a mess.** And I'm not talking about the problems with HTML, with CSS, with JavaScript, with HTTPS itself; others have complained about those standards much better than I ever could. No, today I want to talk about the way that we, as users and consumers of the web, interact with it, and how fundamentally flawed that interaction is.
