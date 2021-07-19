@@ -8,5 +8,6 @@ show_title: true
 
 - Exercising for any reason except health (i.e. to change your appearance) is fatphobic
 - Not wanting to be fat is fatphobic
+- The word 'obese' is a slur
 - Able-bodied people should not use elevators for short journeys
 - Anyone who identifies as antifa is actually part of a hierarchical organisation, even if they aren't aware of it
