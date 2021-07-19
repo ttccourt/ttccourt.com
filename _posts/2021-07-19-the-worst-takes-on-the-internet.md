@@ -11,3 +11,4 @@ show_title: true
 - The word 'obese' is a slur
 - Able-bodied people should not use elevators for short journeys
 - Anyone who identifies as antifa is actually part of a hierarchical organisation, even if they aren't aware of it
+- Not liking the way a house looks is classist
