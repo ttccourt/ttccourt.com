@@ -10,6 +10,7 @@ show_title: true
 - Not wanting to be fat is fatphobic
 - The word 'obese' is a slur
 - Able-bodied people should not use elevators for short journeys
+- Wanting your partner to help with household chores is ableist
 - Anyone who identifies as antifa is actually part of a hierarchical organisation, even if they aren't aware of it
 - Not liking the way a house looks is classist
 - Literacy is a tool used by communists
